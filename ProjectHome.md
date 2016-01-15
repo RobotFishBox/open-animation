@@ -1,0 +1,1 @@
+This is a hobby project. The goal is to create a bunch of animation clips, whatever it may be.
